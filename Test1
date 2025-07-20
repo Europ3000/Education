@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Math Problems by Maarten</title>
+</head>
+<body>
+  <h1>Welcome to Maarten's Math World</h1>
+  <p>Here's your first challenge: What is 7 × 8?</p>
+    <form action="/submit" method="post">
+        <input type="text" name="answer" placeholder="Your answer here">
+        <button type="submit">Submit</button>
+    </form>
+    <p>Need a hint? Remember that 7 times 8 is the same as adding 7 to itself 8 times.</p>
+    <p>For more problems, visit <a href="https://www.mathproblemsbym.com">Math Problems by Maarten</a>.</p>
+
+</body>
+</html>
